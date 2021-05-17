@@ -23,3 +23,5 @@ Coming soon.. gua baca dulu bukunya
 ### 7. Retention
 ### 8. Intution
 ### 9. Experimentation
+
+## Rangkuman
