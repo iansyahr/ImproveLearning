@@ -1,7 +1,8 @@
-# Ultra Learning
-**Master Hard Skills, Outsmart the Competition, and Accelerate Your Career**
+<h1 align="center">Ultralearning</h1>
 
-<img src="https://github.com/iansyahr/ImproveLearning/blob/main/Images/UltraLearning/ultralearningcover.webp?raw=true" alt="drawing" width="300"/>
+<p align="center"><b>Master Hard Skills, Outsmart the Competition, and Accelerate Your Career</b></p>
+
+<p align="center"><img src="https://github.com/iansyahr/ImproveLearning/blob/main/Images/UltraLearning/ultralearningcover.webp?raw=true" alt="drawing" width="300"/></p>
 
 ## Pendahuluan
 Coming soon.. gua baca dulu bukunya
