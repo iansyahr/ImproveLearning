@@ -2,7 +2,7 @@
 
 <p align="center"><b>Berbagai tips & trik belajar yang gua dapat dari berbagai sumber</b></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/iansyahr/ImproveLearning/main/Images/ImproveLearningCov.webp" alt="drawing" width="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/iansyahr/ImproveLearning/main/Images/ImproveLearningCov.webp" alt="drawing" width="500"/></p>
 
 
 ## Rangkuman Buku
