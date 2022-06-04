@@ -7,4 +7,6 @@ belum gua rapihin.. but next time kalau gua udah upload semua tulisan gua ke sin
 [Ultralearning : Cara cepat menjadi bang jago](https://github.com/iansyahr/ImproveLearning/blob/main/UltraLearning.md)
 
 ### Tips & Trick
+#### Artikel
+#### Video
 
