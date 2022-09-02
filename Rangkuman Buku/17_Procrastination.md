@@ -28,7 +28,7 @@ title:: 17 Anti-Procrastination Hacks: How to Stop Being Lazy, Overcome Procrast
 	- Demikian juga, David Ogilvy, yang bisa dibilang sebagai copywriter terbaik yang pernah hidup, mengatakan,
 	- > "Saya adalah copywriter yang buruk, tetapi saya adalah editor yang baik."
 	  — David Ogilvy #quote
-	-
+	
 	- ### Xerox Dibunuh oleh Perfeksionisme
 	  Sekarang, mari kita lihat contoh kegagalan akibat perfeksionisme. Pada tahun 1973, Xerox membuat kesalahan yang menyebabkan mereka kehilangan revolusi komputasi pribadi dan malah dimusnahkan oleh perusahaan-perusahaan yang kurang perfeksionis seperti Apple dan Microsoft. Mengapa? Karena perusahaan lain menyelesaikan sesuatu dan menawarkannya kepada konsumen. Produk mereka mungkin tidak sempurna dalam segala hal (bagaimanapun juga, tidak ada yang sempurna), tetapi produk mereka cukup bagus, dan yang paling penting, tersedia bagi konsumen. Sayangnya bagi Xerox, hal ini tidak terjadi. 
 	  
