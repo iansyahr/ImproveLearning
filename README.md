@@ -11,8 +11,6 @@
 
 [How to Learn Almost Anything in 48 Hours](https://github.com/iansyahr/ImproveLearning/blob/main/Rangkuman%20Buku/48HoursLearn.md)
 
-## Tips & Trick
-
-### Artikel
-### Video Note
+## Artikel
+## Video Note
 
